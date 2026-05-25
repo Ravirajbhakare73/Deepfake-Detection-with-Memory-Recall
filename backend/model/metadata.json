@@ -1,0 +1,6 @@
+{
+  "keras_version": "3.13.2",
+  "date_saved": "2026-04-07@05:37:24",
+  "img_size": 96,
+  "class_names": ["fake", "real"]
+}
